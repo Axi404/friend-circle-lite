@@ -9,7 +9,7 @@
 spider_settings:
   enable: true
   json_url: "https://axi404.top/links.json"
-  article_count: 10
+  article_count: 50
   merge_result:
     enable: false
     merge_json_url: "https://fc.liushen.fun"
