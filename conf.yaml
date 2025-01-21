@@ -9,7 +9,7 @@
 spider_settings:
   enable: true
   json_url: "https://axi404.top/links.json"
-  article_count: 4
+  article_count: 10
   merge_result:
     enable: false
     merge_json_url: "https://fc.liushen.fun"
@@ -21,7 +21,7 @@ spider_settings:
 #   subject:            邮件主题
 #   body_template:      邮件正文的 HTML 模板文件
 email_push:
-  enable: true
+  enable: false
   to_email: axihelloworld@gmail.com
   subject: "今天的 RSS 订阅更新"
   body_template: "rss_template.html"
